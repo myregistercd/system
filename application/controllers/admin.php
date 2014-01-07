@@ -1,9 +1,3 @@
-another test
-
-another stupfas
-
-dada
-
 
 <?php
 
