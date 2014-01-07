@@ -11,10 +11,6 @@ class Admin extends Controller {
 		$this->load->model('helixmodel');
 		$this->load->model('cronmodel');
 	}
-	
-	function test(){
-			echo "working !! another text !!";
-	}
 
 	function index() {
 
