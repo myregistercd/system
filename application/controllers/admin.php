@@ -13,7 +13,7 @@ class Admin extends Controller {
 	}
 	
 	function test(){
-			echo "working !!";
+			echo "working !! another text !!";
 	}
 
 	function index() {
