@@ -148,32 +148,32 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
   	<div class="body-left">
         <div class="rows">
         	<div class="col">
-            	<h2>Necklaces</h2>
+            	<h2>Semi Mount</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>engagementQuality/Engagement_Rings/">Semi Mounts</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/engagementQuality/Engagement_Rings/">Semi Mounts</a></li>
                 </ul>
-                <img src="images/ring1.jpg"  alt="Ring 2"/>
+                <img src="images/ring2.jpg"  alt="Ring 2"/>
 <div class="clear"></div>
           </div>
           <div class="col">
-            	<h2>Sterling Silver</h2>
+            	<h2>Necklaces</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Necklace/">14k Sliver Two Tone</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Necklace/">14k Yellow Gold</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getmystullerfurwithsub/Diamond_Fashion/Necklace/">Diamond Fashion</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getmystullerfurwithsub/Gemstone_Fashion/Necklace/">Gemstone Fashion</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getmystullerfurwithsub/Metal_Fashion/Bracelet/">Metal Fashion</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/Sterling_Silver/Necklace/">14k Sliver Two Tone</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_Yellow_Gold/Necklace/">14k Yellow Gold</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getmystullerfurwithsub/Diamond_Fashion/Necklace/">Diamond Fashion</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getmystullerfurwithsub/Gemstone_Fashion/Necklace/">Gemstone Fashion</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getmystullerfurwithsub/Metal_Fashion/Bracelet/">Metal Fashion</a></li>
                 </ul>
-                <img src="images/ring2.jpg"  alt="Ring 3"/>
+                <img src="images/ring1.jpg"  alt="Ring 3"/>
 <div class="clear"></div>
           </div>
           <div class="col">
             	<h2>Bracelet</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Silver_Two-Tone/Bracelet/">14k Silver Two Tone</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Bracelet/">14k Yellow Gold</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Bracelet/">Sterling Silver</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_White_Gold/Bracelet/">14k White Gold</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_Silver_Two-Tone/Bracelet/">14k Silver Two Tone</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_Yellow_Gold/Bracelet/">14k Yellow Gold</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/Sterling_Silver/Bracelet/">Sterling Silver</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_White_Gold/Bracelet/">14k White Gold</a></li>
                 </ul>
                 <img src="images/ring3.jpg"  alt="Ring 4"/>
 <div class="clear"></div>
@@ -181,10 +181,10 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           <div class="col">
             	<h2>Earrings</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Earring/">Sterling Silver</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Earring/">Yellow Gold</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_White_Gold/Earring/">White Gold</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Silver_Two-Tone/Earring/">Silver Two Tone</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/Sterling_Silver/Earring/">Sterling Silver</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_Yellow_Gold/Earring/">Yellow Gold</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_White_Gold/Earring/">White Gold</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/14k_Silver_Two-Tone/Earring/">Silver Two Tone</a></li>
                 </ul>
                 <img src="images/ring5.jpg"  alt="Ring 5"/>
 <div class="clear"></div>
@@ -192,7 +192,7 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           <div class="col">
             	<h2>Mens Rings</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Mens/">Mens Rings</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/getstullerfur/Sterling_Silver/Mens/">Mens Rings</a></li>
                 </ul>
                 <img src="images/ring6.jpg"  alt="Ring 6"/>
 <div class="clear"></div>
@@ -200,11 +200,11 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           <div class="col">
             	<h2>Clearance</h2>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/Special_Order">Special Order</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/Made_To_Order">Made to Order</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/Limited_Availability">Limited Availability</a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/While_supplies_last">While Supplies Last </a></li>
-                    <li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/CloseOut">Close Out</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>jewelleries/allstullerandquantity/Special_Order">Special Order</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/allstullerandquantity/Made_To_Order">Made to Order</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/allstullerandquantity/Limited_Availability">Limited Availability</a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/allstullerandquantity/While_supplies_last">While Supplies Last </a></li>
+                    <li><a href="<?php echo $this->config->item('base_url');?>jewelleries/allstullerandquantity/CloseOut">Close Out</a></li>
                 </ul>
                 <img src="images/ring7.jpg"  alt="Ring 7"/>
 <div class="clear"></div>
@@ -228,7 +228,7 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
                     <li><a href="http://atlasdiamond.com/engagement/engagement_ring_settings/">Wedding Bands</a></li>
                     <li><a href="http://atlasdiamond.com/engagement/engagement_ring_settings/">Three Stone Rings</a></li>
                 </ul>
-                <img src="images/ring1.jpg"  alt="Ring 1"/>
+                <img src="images/ring9.jpg"  alt="Ring 1"/>
                 <div class="clear"></div>
             </div>
         </div>
@@ -239,26 +239,26 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
         <img src="images/mid-border.png" alt="Border" title="Border" /> 
         </h2>
         <div class="items">
-        	<h3>BUILD YOUR <br />DIAMOND STUDS</h3>
+        	<h3><a href="<?php echo $this->config->item('base_url');?>jewelry/search">BUILD YOUR <br />DIAMOND STUDS</a></h3>
             <img src="images/item1.png"  alt=""/>
         </div>
         <div class="items">
-        	<h3>BUILD YOUR <br />DREAM RING</h3>
+        	<h3><a href="<?php echo $this->config->item('base_url');?>jewelry/jewelry/build_diamond_pendant">BUILD YOUR <br />DREAM RING</a></h3>
             <img src="images/item2.png"  alt=""/>
         </div>
-        <div class="items">
-        	<h3>BUILD YOUR <br />DIAMOND PENDANT</h3>
+        <div class="items"> 
+        	<h3><a href="<?php echo $this->config->item('base_url');?>jewelry/jewelry/build_diamond_pendant">BUILD YOUR <br />DIAMOND PENDANT</a></h3>
           	<img src="images/item3.png"  alt=""/>
           </div>
         <div class="items">
-        	<h3>BUILD YOUR <br />3 STONE RING</h3>
+        	<h3><a href="<?php echo $this->config->item('base_url');?>jewelry/build_three_stone_ring">BUILD YOUR <br />3 STONE RING</a></h3>
             <img src="images/item4.png"  alt=""/>
         </div>
         <div class="clear"></div>
         </div>
       <div class="row-3">
         <h3>NEW 3D RING TECHNOLOGY!</h3>
-        <p>Start Designing the ring ring of your dreams now using our 3D Ring Builder technology...</p>
+        <p>Start Designing the ring of your dreams now using our 3D Ring Builder technology...</p>
         <a href="<?php echo $this->config->item('base_url');?>engagement/engagement_ring_settings/">More Info</a>
         <img src="images/ring5.png" alt=""/>
       </div>
@@ -267,12 +267,12 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
     	<div class="right-row1">
         	<h2>Customer Service</h2>
         	<ul>
-            	<li><img src="images/livechat.jpg"  alt="Live Chat" title="Live Chat"/>Live Chat</li>
+            	<!-- <li><img src="images/livechat.jpg"  alt="Live Chat" title="Live Chat"/>Live Chat</li> -->
                 <li><img src="images/contact.jpg" alt="Contact" title="Contact"/>Contact Us</li>
                 <li><img src="images/call.jpg" alt="Call" title="Call"/>Request Call</li>
             </ul>
           <h3>Call Us Now! <br /><? echo $this->config->item("site_owner_number"); ?></h3>
-        <img src="images/chatimage.jpg" alt="Chat Image" title="Chat Image" />
+        <img src="images/wedo.jpg" alt="We Know" title="We Know" />
         </div>
         <div class="clear"></div>
         <div class="right-row2">
