@@ -12,8 +12,7 @@
 
 <div class="">
     <div class="">
-
-
+    
         <!-- Middle Section Start Here -->
         <div class="">
 
