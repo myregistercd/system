@@ -3,8 +3,8 @@
   <div class="slide-top"></div>
   <div class="slide-images">
       <div class="slide-text">
-	      <h1>Lorem ipsum dolor sit amet.</h1>
-	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+	      <h1>Welcome to <? echo $this->config->item('full_site_name'); ?></h1>
+	  <p>A Trusted Leader and your Friend in the Diamond Business...</p>
 	  <a href="#">See Details</a>
       </div>
       <a href="#">
@@ -149,18 +149,14 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
         <div class="rows">
         	<div class="col">
             	<h2>Necklaces</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 			  <ul>
-                	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Necklace/">Necklaces</a></li>
+                	<li><a href="<?php echo $this->config->item('base_url');?>engagementQuality/Engagement_Rings/">Semi Mounts</a></li>
                 </ul>
-                <img src="images/ring2.jpg"  alt="Ring 2"/>
+                <img src="images/ring1.jpg"  alt="Ring 2"/>
 <div class="clear"></div>
           </div>
           <div class="col">
-            	<h2>Sterling Silve</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
+            	<h2>Sterling Silver</h2>
 			  <ul>
                 	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Necklace/">14k Sliver Two Tone</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Necklace/">14k Yellow Gold</a></li>
@@ -168,26 +164,22 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
                     <li><a href="<?php echo $this->config->item('base_url');?>getmystullerfurwithsub/Gemstone_Fashion/Necklace/">Gemstone Fashion</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getmystullerfurwithsub/Metal_Fashion/Bracelet/">Metal Fashion</a></li>
                 </ul>
-                <img src="images/ring3.jpg"  alt="Ring 3"/>
+                <img src="images/ring2.jpg"  alt="Ring 3"/>
 <div class="clear"></div>
           </div>
           <div class="col">
-            	<h2>Category name</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
+            	<h2>Bracelet</h2>
 			  <ul>
                 	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Silver_Two-Tone/Bracelet/">14k Silver Two Tone</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Bracelet/">14k Yellow Gold</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Bracelet/">Sterling Silver</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_White_Gold/Bracelet/">14k White Gold</a></li>
                 </ul>
-                <img src="images/ring4.jpg"  alt="Ring 4"/>
+                <img src="images/ring3.jpg"  alt="Ring 4"/>
 <div class="clear"></div>
           </div>
           <div class="col">
             	<h2>Earrings</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 			  <ul>
                 	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Earring/">Sterling Silver</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/14k_Yellow_Gold/Earring/">Yellow Gold</a></li>
@@ -199,8 +191,6 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           </div>
           <div class="col">
             	<h2>Mens Rings</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 			  <ul>
                 	<li><a href="<?php echo $this->config->item('base_url');?>getstullerfur/Sterling_Silver/Mens/">Mens Rings</a></li>
                 </ul>
@@ -209,8 +199,6 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           </div>
           <div class="col">
             	<h2>Clearance</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 			  <ul>
                 	<li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/Special_Order">Special Order</a></li>
                     <li><a href="<?php echo $this->config->item('base_url');?>allstullerandquantity/Made_To_Order">Made to Order</a></li>
@@ -223,8 +211,6 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           </div>
           <div class="col">
             	<h2>Loose Diamonds</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 			  <ul>
                 	<li><a href="http://atlasdiamond.com/diamonds/search/true/B">Round Diamonds</a></li>
                     <li><a href="http://atlasdiamond.com/diamonds/search/true/PR">Princess Diamonds</a></li>
@@ -236,8 +222,6 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
           </div>
           <div class="col">
             	<h2>3D Engagement Rings</h2>
-                <p>Explore our one of a kind, hand crafted settings that are gem quality and priced to sell.
-</p>
 				<ul>
                 	<li><a href="http://atlasdiamond.com/engagement/engagement_ring_settings/">Solitaire Rings</a></li>
                     <li><a href="http://atlasdiamond.com/engagement/engagement_ring_settings/">Halo Rings</a></li>
@@ -274,7 +258,7 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
         </div>
       <div class="row-3">
         <h3>NEW 3D RING TECHNOLOGY!</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>Start Designing the ring ring of your dreams now using our 3D Ring Builder technology...</p>
         <a href="<?php echo $this->config->item('base_url');?>engagement/engagement_ring_settings/">More Info</a>
         <img src="images/ring5.png" alt=""/>
       </div>
@@ -312,9 +296,9 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
         	<img src="images/ebay2.png" alt="View Image" title="View Image" />
         </div>
         <div class="clear"></div>
-        <div class="right-row4">
+       <!-- <div class="right-row4">
         	<img src="images/facebook.jpg" alt="View Image" title="View Image" />
-        </div>
+        </div> -->
         <div class="clear"></div>
         <div class="right-row4">
         	<img src="images/ama.jpg" alt="View Image" title="View Image" />
