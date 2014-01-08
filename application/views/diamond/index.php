@@ -243,7 +243,7 @@ loc = jQuery('input[name=ds]:checked', '#diamond_search').val();
             <img src="images/item1.png"  alt=""/>
         </div>
         <div class="items">
-        	<h3><a href="<?php echo $this->config->item('base_url');?>jewelry/jewelry/build_diamond_pendant">BUILD YOUR <br />DREAM RING</a></h3>
+        	<h3><a href="<?php echo $this->config->item('base_url');?>engagement/search">BUILD YOUR <br />DREAM RING</a></h3>
             <img src="images/item2.png"  alt=""/>
         </div>
         <div class="items"> 
